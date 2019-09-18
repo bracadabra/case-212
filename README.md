@@ -109,7 +109,6 @@
 | Тимофей Николаев                   | Аналитик, Яндекс                        |
 | Константин Емельянов               | Developer, NetUP                        |
 | Багиров Эльшан                     | Backend developer                       |
-| Дубровский Николай                 | С++ Developer                           |
 | Мамашин Николай                    | IT Engineer                             |
 | Кочергин Владимир                  | Backend developer                       |
 | Сметанин Антон                     | Game developer                          |
@@ -124,3 +123,4 @@
 | Шукшин Иван                        | Fullstack Developer, выпускник МФТИ     |
 | Дмитрий Гроза                      | Data Analyst .                          |
 | Романченко Андрей                  | Программист 1С, Москва                  |
+| Зайцев Дмитрий                     | Android developer                       |
